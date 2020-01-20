@@ -1,0 +1,39 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1534253893894-10d024888e49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+    ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+}
+
+#scoreBoard {
+    font-size: x-large;
+    font-weight: bolder;
+    padding: 20px;
+    color: yellow;
+}
+
+#startButton {
+    font-size: xx-large;
+    padding: 20px;
+    color: white;
+    background: hotpink;
+    border-color: white;
+    margin: 20px;
+}
+
+#questions {
+    margin: 20px;
+    padding: 20px;
+    color: yellow;
+
+}
+
+#time_count {
+    color: hotpink;
+    font-style: bold;
+}
+
+input[type="radio"] {
+    margin: 10px 0px;
+}
