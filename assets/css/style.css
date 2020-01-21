@@ -37,3 +37,8 @@ body {
 input[type="radio"] {
     margin: 10px 0px;
 }
+
+input.radioBtn {
+    margin-right: 5px;
+    margin-left: 20px;
+}
